@@ -1,0 +1,39 @@
+{
+ "key": "overijssel",
+ "brand": "Lachgas Overijssel",
+ "host": "lachgasoverijssel.nl",
+ "site": "https://lachgasoverijssel.nl",
+ "word": "Overijssel",
+ "wa": "31684626182",
+ "mail": "info@lachgasoverijssel.nl",
+ "keyword": "lachgas overijssel",
+ "alt_names": [
+  "lachgasoverijssel.nl"
+ ],
+ "home_title": "Lachgas Overijssel | Lachgas bestellen, bezorgd via WhatsApp",
+ "html_lang": "nl",
+ "hl": "nl",
+ "lang": "nl-NL",
+ "locale": "nl_NL",
+ "country": "NL",
+ "payment": "Contant, Tikkie",
+ "same_as": [],
+ "extra_service": [],
+ "family": "prov",
+ "domain": "https://lachgasoverijssel.nl",
+ "area_dirs": [
+  "lachgas-bezorgen"
+ ],
+ "city": null,
+ "region": "Overijssel",
+ "region_long": "heel Overijssel",
+ "geo_region": "NL-OV",
+ "place": "Overijssel",
+ "geo": null,
+ "theme": "#1c1917",
+ "accent": "#0f766e",
+ "og": "/assets/og-lachgas-overijssel.png",
+ "logo": "/assets/icon-512.png",
+ "apple": "/assets/apple-touch-icon.png",
+ "og_alt": "Lachgas Overijssel: lachgas bestellen in heel Overijssel, bezorgd via WhatsApp"
+}
